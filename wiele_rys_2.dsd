@@ -1,0 +1,53 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Drawing4_Layout1]
+DWG=C:\ROBOCZY\DWG\Drawing4.dwg
+Layout=Layout1
+Setup=Default:420_3000
+OriginalSheetPath=C:\ROBOCZY\DWG\Drawing4.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Drawing4_Layout2]
+DWG=C:\ROBOCZY\DWG\Drawing4.dwg
+Layout=Layout2
+Setup=Default:594_3000
+OriginalSheetPath=C:\ROBOCZY\DWG\Drawing4.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Drawing3_Layout1]
+DWG=C:\ROBOCZY\DWG\Drawing3.dwg
+Layout=Layout1
+Setup=Default:420_3000
+OriginalSheetPath=C:\ROBOCZY\DWG\Drawing3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Drawing3_Layout2]
+DWG=C:\ROBOCZY\DWG\Drawing3.dwg
+Layout=Layout2
+Setup=Default:594_3000
+OriginalSheetPath=C:\ROBOCZY\DWG\Drawing3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\ROBOCZY\DWG\Drawing3.pdf
+OUT=C:\ROBOCZY\DWG
+PWD=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+JobID=0
+SelectionSetName=
+ZwcadProfile=
+CategoryName=
+LogFilePath=
+IncludeLayer=FALSE
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
